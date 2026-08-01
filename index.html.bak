@@ -1,12 +1,4 @@
-<html>
-
-<meta name="og:title" content="ajna.life" />
-<meta name="og:description" content="ㅤㅤ࿀⠀⃝็࿀　 ࿀⠀⃝　࿀็็　⠀⃝࿀　　࿀　็⠀⃝ ࿀࿀⠀⃝　࿀⠀⃝　ㅤㅤ。" />
-<meta name="og:url" content="https://ajna.life" />
-<meta name="og:site_name" content="ajna" />
-<meta name="og:type" content="website" />	
-	
-<head>
+<html><head>
 <style>
  body {
   color: black;
@@ -41,6 +33,12 @@ a:active {
   background-color: transparent;
   text-decoration: underline;
 }
+
+  <meta name="og:title" content="ajna.life" />
+  <meta name="og:description" content="ㅤㅤ࿀⠀⃝็࿀　 ࿀⠀⃝　࿀็็　⠀⃝࿀　　࿀　็⠀⃝ ࿀࿀⠀⃝　࿀⠀⃝　ㅤㅤ。" />
+  <meta name="og:url" content="https://ajna.life" />
+  <meta name="og:site_name" content="ajna" />
+  <meta name="og:type" content="website" />
   
 </style></head>
 <body>
